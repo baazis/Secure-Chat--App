@@ -8,15 +8,15 @@ Data security is crucial. The internet as we know it would not exist without dat
 
 ## Solution
 
-We will be building a traditional browser-based web app for Customer service which can be attached to various websites that wants communication between two users encrypted and safe live on the app. We will try to show an implementation of an end-to-end 2048-bit RSA encrypted messenger
+A traditional browser-based web app for Customer service which can be attached to various websites that wants communication between two users encrypted and safe live on the app. We will try to show an implementation of an end-to-end 2048-bit RSA encrypted messenger
 
 ## Process flow
 
-We'll be utilizing Vue.js for coordinating the frontend functionality along with Node.js for integrating the backend and platform.
+Utilizing ``Vue.js`` for coordinating the frontend functionality along with ``Node.js`` for integrating the backend and platform.
 
-We will use socket.io to connect members for communication and sending messages which will be shown on the web app in real time which we will try to make using JavaScript Framework like Vuejs.
+Using of ``socket.io`` to connect members for communication and sending messages which will be shown on the web app in real time which we will try to make using JavaScript Framework like Vuejs.
 
-We will be adding Encryption in our messenger using asymmetric encryption cryptography(to encrypt and decrypt a message and protect it from unauthorized access or use.
+Adding of Encryption in our messenger using asymmetric encryption cryptography(to encrypt and decrypt a message and protect it from unauthorized access or use).
 
 ## Tech Used
 
